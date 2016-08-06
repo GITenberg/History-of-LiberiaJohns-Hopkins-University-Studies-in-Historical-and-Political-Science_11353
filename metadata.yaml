@@ -1,0 +1,29 @@
+_repo: History-of-LiberiaJohns-Hopkins-University-Studies-in-Historical-and-Political-Science_11353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McPherson, J. H. T. (John Hanson Thomas)
+    aliases:
+    - McPherson, John Hanson Thomas
+    - McPherson, John H. T. (John Hanson Thomas)
+    birthdate: 1865
+    deathdate: 1953
+    gutenberg_agent_id: '3950'
+    url: http://www.gutenberg.org/2009/agents/3950
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'H'
+- !lcsh 'Liberia -- History -- 1847-1944'
+- GITenberg
+title: 'History of Liberia
+
+  Johns Hopkins University Studies in Historical and Political Science'
+url: http://www.gutenberg.org/ebooks/11353
